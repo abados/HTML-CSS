@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(81, 121, 177);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteiner_01 {
+  height: 1000px;
+  width: 1000px;
+  position: relative;
+}
+
+.upperPic {
+  background-color: aquamarine;
+  position: absolute;
+  top: 70px;
+  left: 500px;
+  border-radius: 10px;
+  z-index: 1;
+}
+
+h1 {
+  position: absolute;
+  left: 510px;
+}
+
+.divs {
+  height: 100px;
+  width: 100px;
+}
+.squre {
+  background-color: rgb(34, 202, 185);
+  position: absolute;
+  top: 250px;
+  left: 300px;
+  opacity: 0.4;
+  height: 200px;
+  width: 600px;
+}
+
+.lowVideo {
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+ul {
+  text-align: right;
+  list-style: none;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration-line: underline;
+}
+
+li {
+  margin-top: 10px;
+  margin-right: 30px;
+}
+
+li:hover {
+  color: red;
+  cursor: pointer;
+}
+
+iframe {
+  position: absolute;
+  top: 470px;
+  left: 430px;
+  box-shadow: 10px 10px 10px 10px rgba(214, 70, 17, 0.708);
+}
