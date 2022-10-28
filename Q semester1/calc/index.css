@@ -1,0 +1,23 @@
+input {
+  margin: 10px 2px;
+  font-size: 60px;
+  border-radius: 15px;
+  height: 60px;
+  width: 250px;
+}
+
+button {
+  border-radius: 60px;
+  margin: 10px 4px;
+  font-size: 50px;
+  margin: 10px 2px;
+  height: 65px;
+  width: 65px;
+}
+
+table {
+  border-radius: 20px;
+  background-color: #d3d3d3;
+  height: 250px;
+  width: 250px;
+}
